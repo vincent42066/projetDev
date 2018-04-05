@@ -5,3 +5,5 @@
 Arduino/libraries/
 
 MotorDriverPython/
+*.jpg
+*.png
