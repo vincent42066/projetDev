@@ -1,0 +1,37 @@
+Ultiboard Information Export File
+
+Design Name  : PCB_robot_ulti_1 - Part centroids
+Report Date  : 18 June 2018
+Report Time  : 15:22
+--------------------------------------------------------------------------------
+
+REFDES        VALUE        X_CENTRE[mil] Y_CENTRE[mil]    ROT SIDE     TYPE     FOOTPRINT       
+
+CPT_BACK_LEFT HDR1X3          220.00000    700.00000    180 TOP      THD      HDR1X3          
+CPT_BACK_RIGHT HDR1X3         1760.00000    700.00000    180 TOP      THD      HDR1X3          
+CPT_FRONT_LEFT HDR1X3          200.05496   2859.94504      0 TOP      THD      HDR1X3          
+CPT_FRONT_RIGHT HDR1X3         1600.00000   2860.00000      0 TOP      THD      HDR1X3          
+CTRL_PUISSANCE DSWPK_2        1250.00000   1930.00000      0 TOP      THD      DIPSW2H         
+HEADER_LEFT   HDR1X14         257.63780   2014.76378     90 TOP      THD      HDR1X14         
+HEADER_RIGHT  HDR1X14        1478.34646   2016.61417    270 TOP      THD      HDR1X14         
+I2C1          HDR1X4         1190.00000    600.00000    180 TOP      THD      HDR1X4          
+I2C2          HDR1X4         1190.00000    820.00000    180 TOP      THD      HDR1X4          
+I2C3          HDR1X4         1193.45949   1108.11303    180 TOP      THD      HDR1X4          
+I2C4          HDR1X4         1190.00000    340.00000    180 TOP      THD      HDR1X4          
+I2C5          HDR1X4         1190.00000    120.00000    180 TOP      THD      HDR1X4          
+MOTORA        HDR1X2         1229.99992   1360.00000      0 TOP      THD      HDR1X2          
+MOTORB        HDR1X2          929.99992   1360.00000      0 TOP      THD      HDR1X2          
+MOT_SHIELD_L  HDR1X8          520.00000   2030.00000     90 TOP      THD      HDR1X8          
+MOT_SHIELD_R  HDR1X6         1020.00000   2030.00008    270 TOP      THD      HDR1X6          
+R1            100 kOhm  [CR1206-FX-1003ELF]   1260.00000   2880.00000     90 BOTTOM   SMD      RESC3216X75N    
+R2            10 kOhm  [CR1206-FX-1002ELF]    940.00000    480.00000      0 BOTTOM   SMD      RESC3216X75N    
+R3            10 kOhm  [CR1206-FX-1002ELF]    760.00000    620.00000      0 BOTTOM   SMD      RESC3216X75N    
+R4            10 kOhm  [CR1206-FX-1002ELF]    760.00000   1000.00000    180 BOTTOM   SMD      RESC3216X75N    
+R5            10 kOhm  [CR1206-FX-1002ELF]    766.88976    783.93701      0 BOTTOM   SMD      RESC3216X75N    
+R6            10 kOhm  [CR1206-FX-1002ELF]    603.11024   1295.82677      0 BOTTOM   SMD      RESC3216X75N    
+R7            10 kOhm  [CR1206-FX-1002ELF]    760.00000   1120.00000      0 BOTTOM   SMD      RESC3216X75N    
+R8            10 kOhm  [CR1206-FX-1002ELF]    520.00000    220.00000      0 BOTTOM   SMD      RESC3216X75N    
+R9            10 kOhm  [CR1206-FX-1002ELF]    520.00000     80.00000      0 BOTTOM   SMD      RESC3216X75N    
+R10           10 kOhm  [CR1206-FX-1002ELF]    840.00000    280.00000      0 BOTTOM   SMD      RESC3216X75N    
+R11           10 kOhm  [CR1206-FX-1002ELF]    660.00000    380.00000      0 BOTTOM   SMD      RESC3216X75N    
+RESET_BUTTON  PB_DPST         870.00000   2860.00000    180 TOP      THD      test1           

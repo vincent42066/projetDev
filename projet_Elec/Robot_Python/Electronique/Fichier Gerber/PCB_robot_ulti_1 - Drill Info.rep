@@ -1,0 +1,23 @@
+ULTIBOARD DRILL REPORT
+
+Design: PCB_robot_ulti_1
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Inch, 2.4 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                         LAMINATION
+PCB_robot_ulti_1 - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1   0.0350    PTH     70
+   2   0.0392    PTH     28
+   3   0.0333    PTH      1
+   4   0.0236    PTH      2
