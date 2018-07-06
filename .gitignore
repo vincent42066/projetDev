@@ -7,4 +7,15 @@ Arduino/libraries/
 MotorDriverPython/
 *.jpg
 *.png
+*.gif
+
+projet_Elec/PCB/Pcb_elec/
+
 projet_Elec/SparkFun_Serial_Controlled_Motor_Driver_Arduino_Library-master/src/
+
+projet_Elec/SparkFun_Serial_Controlled_Motor_Driver_Arduino_Library-master/extras/
+*dataSheet/
+
+*.conf
+*SparkFun*
+*.MOV
